@@ -1,0 +1,36 @@
+.CardGroup {
+  max-width: 960px;
+  margin: 60px auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 30px;
+  justify-items: center;
+}
+
+.Upcoming img {
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+}
+
+@media (max-width: 640px) {
+  .CardGroup {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+.Cards h2 {
+  margin: 60px auto;
+  font-size: 60px;
+  text-align: center;
+  font-weight: 700;
+  background: linear-gradient(104.74deg, #050a27 0%, #4a548c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@media (max-width: 640px) {
+  .Cards h2 {
+    font-size: 25px;
+  }
+}
