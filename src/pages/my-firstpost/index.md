@@ -969,9 +969,9 @@ Have you seen everything is 100% performance, accessibility, best practices and 
 <br />
 <a href="">Code repository</a>
 
-<a href="">Live Blog</a>
+<a href="https://github.com/LyHuiENuZ/My_Blog">Live Blog</a>
 
-This post is originally published at <a href="">reactgo.com
+This post is originally published at <a href="reactgo.com">reactgo.com
 </a>
 
-搬运自<a href="">reactgo.com</a>
+搬运自<a href="reactgo.com">reactgo.com</a>
