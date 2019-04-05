@@ -13,7 +13,7 @@ function BlogPost(props) {
   const { title, date, description } = post.frontmatter
   const thumbnail =
     post.frontmatter.image && post.frontmatter.image.childImageSharp.resize.src
-  const disqusShortname = 'yourdisqusshortname'
+  const disqusShortname = 'liuzhenyu'
   const disqusConfig = {
     identifier: post.id,
     title: post.frontmatter.title,

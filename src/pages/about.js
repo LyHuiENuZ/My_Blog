@@ -31,7 +31,7 @@ class About extends React.Component {
       <div className="page-container">
         <div className="About">
           <div className="Resume">
-            <a href="https://liuzhy.club/">Resume</a>
+            <a href="http://liuzhy.club/">Resume</a>
           </div>
           <div className="Button">
             <Button
