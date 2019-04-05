@@ -967,11 +967,11 @@ we are auditing our blog now by using chrome dev tools open your site in the Chr
 Have you seen everything is 100% performance, accessibility, best practices and seo hope you enjoyed and learned something new?
 
 <br />
-<a href="">Code repository</a>
+<a href="https://github.com/LyHuiENuZ/My_Blog">Code repository</a>
 
-<a href="https://github.com/LyHuiENuZ/My_Blog">Live Blog</a>
+<a href="https://liuzhenyu.me">Live Blog</a>
 
-This post is originally published at <a href="reactgo.com">reactgo.com
+This post is originally published at <a href="https://reactgo.com">reactgo.com
 </a>
 
-搬运自<a href="reactgo.com">reactgo.com</a>
+搬运自<a href="https://reactgo.com">reactgo.com</a>
