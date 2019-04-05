@@ -59,6 +59,10 @@ module.exports = {
       },
     },
     `gatsby-plugin-typescript`,
+    {
+      resolve: 'gatsby-plugin-zopfli',
+    },
+    `gatsby-plugin-compression`,
     // {
     //   resolve: `gatsby-plugin-feed`,
     //   options: {
